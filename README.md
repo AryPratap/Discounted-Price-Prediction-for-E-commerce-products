@@ -14,7 +14,7 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-   <li><a href="#Contributers">Contact</a></li>
+  
    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
