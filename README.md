@@ -30,3 +30,6 @@ Today's online retail platforms are heavily powered by algorithms and applicatio
 <br>
 
 In this project I have estimated the discounted price of different products listed on Amazon and Flipkart, from the descriptions of products, including details like product title, ratings, reviews, and actual prices. 
+
+## Acknowledgement 
+I would highly acknowledge the Consulting and Analytics Club of IIT Guwahati for conducting this hackathon. 
